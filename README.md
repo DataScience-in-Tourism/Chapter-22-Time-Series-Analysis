@@ -1,10 +1,10 @@
 # Chapter 22: Time Series Analysis
 
 ## Forecasting Tourism Demand with Time Series Analysis
+## http://www.datascience-in-tourism.com/
 
 ***Irem Önder*** & ***Wenqi Wei***
-
-* Irem Önder - Univesity of Massachusetts Amherst
+* Univesity of Massachusetts Amherst
 
 ### Abstract
 
